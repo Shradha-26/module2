@@ -1,0 +1,21 @@
+.col-12{
+    background-color:lavenderblush;
+    margin-bottom: 10px;
+    
+}
+.container{
+    background-color: palevioletred;
+}
+
+p{
+    font-family: cursive;
+}
+h3{
+    padding-top: 30px;
+}
+
+@media (max-width: 768px) {
+    #navbar-menu {
+    background-color: white;
+    }
+}
